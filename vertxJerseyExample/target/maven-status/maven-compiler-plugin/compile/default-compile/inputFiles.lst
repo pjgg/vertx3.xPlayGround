@@ -1,0 +1,14 @@
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/dto/TimestampDTO.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/exceptionMapper/AbstractExceptionMapper.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/exceptionMapper/ErrorResponse.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/dto/Person.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/filters/CustomRequestFilter.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/binders/SimpleDateFormatBinder.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/exceptionMapper/DataException.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/exceptionMapper/CustomExceptionMapper.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/configuration/VerticleConf.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/filters/CustomResponseFilter.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/exceptionMapper/RestErrors.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/resources/MyResourceLayer.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/binders/CustomSimpleDateFormat.java
+/Users/pablojosegonzalezgranados/Documents/workspace/vertxPlayGround/vertxJerseyExample/src/main/java/org/pablo/binders/FiltersBinder.java

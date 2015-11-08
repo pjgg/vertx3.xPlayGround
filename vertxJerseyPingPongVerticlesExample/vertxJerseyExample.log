@@ -1,0 +1,1200 @@
+2015-11-02 17:04:28,572 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 17:04:28,576 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 17:18:06,137 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 17:18:06,142 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 17:20:11,285 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 17:20:11,290 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 17:20:48,967 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 17:20:48,972 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 17:21:06,158 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 17:21:06,163 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 17:35:13,544 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 17:35:13,549 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 18:18:03,960 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 18:18:03,964 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 18:18:55,061 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:38] Eco!
+2015-11-02 18:18:55,063 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:48:52,416 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 18:48:52,443 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 18:48:56,418 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:39] Eco!
+2015-11-02 18:48:56,420 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:48:56,543 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 18:49:11,269 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:39] Eco!
+2015-11-02 18:49:11,270 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:49:54,983 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 18:49:54,988 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 18:50:09,657 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:39] Eco!
+2015-11-02 18:50:09,659 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:50:12,771 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 18:50:20,812 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:39] Eco!
+2015-11-02 18:50:20,812 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:53:01,148 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 18:53:01,152 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 18:53:01,275 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:24] PING Service
+2015-11-02 18:53:01,276 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:24] PONG Service
+2015-11-02 18:53:04,160 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:53:04,233 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 18:53:04,299 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 18:53:26,380 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:53:26,381 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 18:55:41,454 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 18:55:41,458 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 18:55:41,579 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service
+2015-11-02 18:55:41,580 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:25] PING Service
+2015-11-02 18:55:43,689 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:55:43,749 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 18:55:43,820 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 18:55:47,729 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 18:55:47,729 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:01:13,857 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 19:01:13,861 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 19:01:13,979 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:25] PING Service
+2015-11-02 19:01:13,979 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 19:01:18,553 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:01:18,607 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:01:18,668 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:01:41,199 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:01:41,200 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:01:44,931 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] PONG Service Stops!
+2015-11-02 19:01:44,931 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:39] PING Service Stops!
+2015-11-02 19:08:07,189 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 19:08:07,826 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 19:08:07,828 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 19:08:07,943 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 19:08:08,576 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] PONG Service Stops!
+2015-11-02 19:08:21,899 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 19:08:22,571 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 19:08:22,572 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 19:08:22,682 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:25] PING Service start!
+2015-11-02 19:08:22,682 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 19:08:48,915 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 19:08:49,543 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 19:08:49,544 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 19:08:49,672 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 19:08:49,672 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:25] PING Service start!
+2015-11-02 19:09:04,183 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:09:04,254 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:09:04,317 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:09:06,961 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:09:06,962 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:09:12,131 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PING Service Stops!
+2015-11-02 19:09:12,132 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] PONG Service Stops!
+2015-11-02 19:12:38,115 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 19:12:38,760 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 19:12:38,762 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 19:12:38,884 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 19:12:38,885 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:25] PING Service start!
+2015-11-02 19:12:40,935 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:12:41,001 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:12:41,017 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:30] ping
+2015-11-02 19:12:41,018 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] pong
+2015-11-02 19:12:49,721 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:41] PING Service Stops!
+2015-11-02 19:12:49,721 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] PONG Service Stops!
+2015-11-02 19:14:26,889 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 19:14:27,533 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 19:14:27,534 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 19:14:27,648 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:25] PING Service start!
+2015-11-02 19:14:27,648 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 19:14:30,554 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:14:30,613 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:14:30,623 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:30] ping
+2015-11-02 19:14:30,625 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] pong
+2015-11-02 19:14:30,631 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:62] lalala
+2015-11-02 19:14:38,215 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] PONG Service Stops!
+2015-11-02 19:14:38,215 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:41] PING Service Stops!
+2015-11-02 19:18:32,258 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 19:18:32,898 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 19:18:32,900 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 19:18:33,025 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:25] PING Service start!
+2015-11-02 19:18:33,029 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 19:18:35,932 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:18:36,003 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:18:36,014 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:30] ping
+2015-11-02 19:18:36,014 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] pong
+2015-11-02 19:18:36,021 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:62] lalala
+2015-11-02 19:18:36,025 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:18:40,503 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:18:40,503 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:18:40,504 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:30] ping
+2015-11-02 19:18:40,505 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] pong
+2015-11-02 19:18:40,505 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:62] lalala
+2015-11-02 19:18:56,027 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:18:56,028 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:18:56,028 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:30] ping
+2015-11-02 19:18:56,029 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] pong
+2015-11-02 19:18:56,029 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:62] lalala
+2015-11-02 19:18:56,029 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:19:00,727 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:19:00,728 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:19:00,729 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:30] ping
+2015-11-02 19:19:00,729 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] pong
+2015-11-02 19:19:00,730 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:62] lalala
+2015-11-02 19:19:00,730 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:19:07,229 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:41] PING Service Stops!
+2015-11-02 19:19:07,229 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] PONG Service Stops!
+2015-11-02 19:27:08,342 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 19:27:08,965 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 19:27:08,966 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 19:27:09,078 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:22] PING Service start!
+2015-11-02 19:27:09,078 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 19:27:13,072 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:27:13,131 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:27:13,153 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 19:27:13,155 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] ping
+2015-11-02 19:27:13,162 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:27:18,717 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:27:18,718 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:27:18,719 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 19:27:18,720 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] ping
+2015-11-02 19:27:18,721 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:27:20,031 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:27:20,031 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:27:20,032 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 19:27:20,033 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] ping
+2015-11-02 19:27:20,034 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:27:20,813 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 19:27:20,814 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 19:27:20,816 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 19:27:20,817 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] ping
+2015-11-02 19:27:20,818 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 19:27:23,058 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] PONG Service Stops!
+2015-11-02 19:27:23,059 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING Service Stops!
+2015-11-02 20:09:14,924 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 20:09:23,680 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 20:09:23,682 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 20:09:24,795 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:25] PONG Service start!
+2015-11-02 20:09:24,802 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:22] PING Service start!
+2015-11-02 20:10:31,894 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 20:10:31,978 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 20:10:31,988 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 20:10:31,989 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] ping
+2015-11-02 20:10:32,050 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 20:10:37,507 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 20:10:37,508 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:44] New request
+2015-11-02 20:10:37,509 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 20:10:37,509 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:35] ping
+2015-11-02 20:10:37,510 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 20:13:33,903 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] PONG Service Stops!
+2015-11-02 20:13:33,903 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:46] PING Service Stops!
+2015-11-02 20:30:54,724 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 20:30:55,315 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 20:30:55,317 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 20:30:55,423 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:22] PONG Service start!
+2015-11-02 20:30:55,424 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:22] PING Service start!
+2015-11-02 20:31:01,425 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 20:31:01,490 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 20:31:01,508 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 20:31:01,509 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:32] ping
+2015-11-02 20:31:01,519 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 20:31:02,911 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 20:31:02,911 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 20:31:02,912 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 20:31:02,913 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:32] ping
+2015-11-02 20:31:02,915 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 20:31:06,984 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] PONG Service Stops!
+2015-11-02 20:31:06,985 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING Service Stops!
+2015-11-02 20:32:26,145 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 20:32:26,737 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 20:32:26,738 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 20:32:26,848 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:22] PONG Service start!
+2015-11-02 20:32:26,850 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:22] PING Service start!
+2015-11-02 20:32:29,190 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING Service Stops!
+2015-11-02 20:32:29,190 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] PONG Service Stops!
+2015-11-02 20:34:07,115 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 20:34:07,712 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 20:34:07,714 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 20:34:07,824 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:22] PING Service start!
+2015-11-02 20:34:07,824 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:22] PONG Service start!
+2015-11-02 20:34:10,198 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] PONG Service Stops!
+2015-11-02 20:34:10,198 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING Service Stops!
+2015-11-02 21:04:09,544 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 21:04:10,157 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 21:04:10,159 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 21:04:10,264 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:22] PING Service start!
+2015-11-02 21:04:10,264 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-02 21:04:14,018 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:04:14,073 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:04:14,086 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:04:14,090 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:04:14,096 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:04:14,990 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:04:14,991 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:04:14,992 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:04:14,992 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:04:14,993 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:04:15,558 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:04:15,559 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:04:15,561 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:04:15,562 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:04:15,563 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:04:15,736 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:04:15,736 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:04:15,737 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:04:15,738 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:04:15,740 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:04:15,901 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:04:15,902 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:04:15,903 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:04:15,903 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:04:15,904 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:04:16,045 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:04:16,046 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:04:16,046 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:04:16,047 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:04:16,050 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:04:20,991 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING Service Stops!
+2015-11-02 21:04:20,992 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:48] PONG Service Stops!
+2015-11-02 21:05:19,597 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-02 21:05:20,200 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-02 21:05:20,202 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-02 21:05:20,311 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:22] PING Service start!
+2015-11-02 21:05:20,312 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-02 21:05:22,609 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:05:22,664 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:05:22,681 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:05:22,684 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:05:22,700 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:05:23,415 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:05:23,416 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:05:23,417 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:05:23,418 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:05:23,419 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:05:23,582 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:05:23,583 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:05:23,584 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:05:23,585 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:05:23,585 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:05:23,903 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-02 21:05:23,904 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:43] New request
+2015-11-02 21:05:23,906 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:27] ping
+2015-11-02 21:05:23,907 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:40] ping
+2015-11-02 21:05:23,908 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-02 21:05:25,768 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING Service Stops!
+2015-11-02 21:05:25,768 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:48] PONG Service Stops!
+2015-11-03 12:19:08,847 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:19:13,561 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:19:13,563 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:22:19,821 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:22:20,565 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:22:20,567 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:28:40,039 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:28:40,663 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:28:40,665 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:30:09,147 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:30:09,766 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:30:09,768 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:30:09,881 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 12:30:09,884 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 12:30:17,182 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 12:30:17,264 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:50] New request
+2015-11-03 12:31:24,662 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 12:31:24,662 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 12:34:10,023 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:34:10,663 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:34:10,664 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:34:10,777 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 12:34:10,784 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 12:34:23,393 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 12:34:23,452 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:51] New request
+2015-11-03 12:34:36,450 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 12:34:36,450 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 12:37:47,551 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:37:48,165 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:37:48,167 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:37:48,289 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 12:37:48,289 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 12:37:50,950 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 12:37:51,005 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:51] New request
+2015-11-03 12:38:06,041 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 12:38:06,041 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 12:47:04,074 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:47:04,784 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:47:04,786 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:47:04,900 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 12:47:04,900 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 12:47:06,041 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 12:47:06,100 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:51] New request
+2015-11-03 12:47:08,850 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 12:47:08,850 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 12:49:14,009 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:49:14,627 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:49:14,628 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:49:14,749 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 12:49:14,750 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 12:49:18,042 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 12:49:18,104 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:51] New request
+2015-11-03 12:49:27,125 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 12:49:27,125 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 12:50:34,278 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:50:34,910 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:50:34,911 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:50:35,029 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 12:50:35,029 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 12:50:37,095 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 12:50:37,157 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:51] New request
+2015-11-03 12:50:46,076 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 12:50:46,077 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 12:55:32,242 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:55:32,868 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:55:32,870 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:55:32,992 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 12:55:32,996 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 12:55:35,864 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 12:55:35,930 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 12:55:43,535 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 12:55:43,535 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 12:57:02,513 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 12:57:03,400 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 12:57:03,401 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 12:57:03,484 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 12:57:03,484 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 12:57:15,609 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 12:57:15,694 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:02:01,475 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 13:02:02,133 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 13:02:02,135 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 13:02:02,263 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 13:02:02,266 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 13:02:05,554 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 13:02:05,609 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:03:32,147 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 13:03:32,147 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 13:04:41,147 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 13:04:41,790 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 13:04:41,792 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 13:04:41,915 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 13:04:41,916 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 13:04:48,834 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 13:04:48,902 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:06:16,833 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 13:06:16,833 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 13:06:34,826 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 13:06:35,457 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 13:06:35,459 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 13:06:35,575 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 13:06:35,575 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 13:06:39,109 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 13:06:39,172 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:06:39,188 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 13:06:44,531 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 13:06:44,532 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 13:08:08,079 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 13:08:08,734 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 13:08:08,736 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 13:08:08,858 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 13:08:08,858 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 13:08:12,230 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 13:08:12,296 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:08:30,252 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 13:08:30,252 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 13:09:08,366 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 13:09:08,992 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 13:09:08,993 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 13:09:09,116 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 13:09:09,116 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 13:09:12,011 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 13:09:12,065 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:09:12,112 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 13:09:12,122 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@46251db2
+2015-11-03 13:09:23,007 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 13:09:23,007 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 13:10:18,151 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 13:10:18,795 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 13:10:18,797 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 13:10:18,949 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 13:10:18,949 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 13:10:20,270 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 13:10:20,340 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:10:20,375 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 13:10:20,382 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@6d4805fc
+2015-11-03 13:13:52,292 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 13:13:53,190 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 13:13:53,192 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 13:13:53,293 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 13:13:53,296 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 13:14:06,085 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 13:14:06,171 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:14:06,229 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 13:14:10,774 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@5ff5796e
+2015-11-03 13:14:21,446 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 13:14:21,447 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 13:14:21,448 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 13:14:47,875 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@7b9e21de
+2015-11-03 14:26:17,887 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 14:26:18,513 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 14:26:18,515 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 14:26:18,630 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 14:26:18,630 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 14:26:22,012 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 14:26:22,080 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 14:26:22,117 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 14:26:22,125 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@8e849
+2015-11-03 14:26:22,148 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 14:26:36,827 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 14:26:36,828 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 14:26:36,829 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 14:26:36,830 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@4e84e570
+2015-11-03 14:26:36,831 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 14:26:37,581 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 14:26:37,582 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 14:26:37,583 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 14:26:37,584 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@1e5b4e4b
+2015-11-03 14:26:37,585 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 14:26:37,990 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 14:26:37,991 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 14:26:37,992 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 14:26:37,992 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@39dd2409
+2015-11-03 14:26:37,993 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 14:26:38,131 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 14:26:38,132 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 14:26:38,133 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 14:26:38,134 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@7ed0c9db
+2015-11-03 14:26:38,135 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 14:26:38,293 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 14:26:38,294 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 14:26:38,295 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 14:26:38,295 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@17960c14
+2015-11-03 14:26:38,297 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 14:26:38,430 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 14:26:38,430 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:53] New request
+2015-11-03 14:26:38,431 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 14:26:38,432 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@53fb21bb
+2015-11-03 14:26:38,434 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 14:26:53,400 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:57] PING Service Stops!
+2015-11-03 14:26:53,401 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 15:21:24,311 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 15:21:24,953 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 15:21:24,955 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 15:21:25,075 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 15:21:25,079 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 15:21:28,015 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 15:21:28,072 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 15:21:28,120 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 15:21:28,127 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@1a1a9fd2
+2015-11-03 15:21:28,131 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 15:21:31,125 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 15:21:31,125 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 15:35:52,726 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 15:35:53,354 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 15:35:53,355 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 15:35:53,474 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 15:35:53,474 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 15:35:55,465 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 15:35:55,465 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 15:43:58,202 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 15:43:58,827 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 15:43:58,828 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 15:43:58,950 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 15:43:58,951 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 15:44:00,732 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 15:44:00,732 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 15:44:23,261 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 15:44:23,894 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 15:44:23,895 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 15:44:24,002 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 15:44:24,003 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 15:44:28,529 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 15:44:28,587 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 15:44:28,627 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 15:44:34,692 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 15:44:34,692 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 15:46:50,775 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 15:46:51,458 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 15:46:51,460 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 15:46:51,576 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 15:46:51,577 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 15:46:53,768 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 15:46:53,822 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 15:46:53,873 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 15:46:53,880 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@39cce581
+2015-11-03 15:46:53,889 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 15:46:58,163 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 15:46:58,164 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 15:51:43,133 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 15:51:43,763 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 15:51:43,765 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 15:51:43,880 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 15:51:43,880 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 15:52:03,481 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 15:52:03,481 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 15:52:25,488 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 15:52:26,113 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 15:52:26,115 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 15:52:26,246 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 15:52:26,249 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 15:52:57,738 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 15:52:58,337 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 15:52:58,339 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 15:52:58,455 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 15:52:58,455 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 15:54:21,353 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 15:54:21,353 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 16:01:25,009 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 16:01:25,631 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 16:01:25,632 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 16:01:28,666 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 16:01:28,720 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 16:01:34,841 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:59] Main Verticle stop!
+2015-11-03 16:03:11,269 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 16:03:11,890 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 16:03:11,892 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 16:03:12,012 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 16:03:12,013 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 16:03:16,215 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 16:03:16,277 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 16:03:16,317 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 16:03:16,327 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@7da118d9
+2015-11-03 16:03:16,331 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 16:03:18,119 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 16:03:18,120 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 16:03:18,121 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 16:03:18,121 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@1378bbfc
+2015-11-03 16:03:18,122 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 16:03:18,872 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 16:03:18,873 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 16:03:18,874 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 16:03:18,875 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@5dff477
+2015-11-03 16:03:18,877 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 16:03:19,315 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 16:03:19,315 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 16:03:19,316 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 16:03:19,317 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@2e062cbc
+2015-11-03 16:03:19,318 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 16:03:24,190 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 16:03:24,191 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 16:03:49,851 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 16:03:50,469 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 16:03:50,471 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 16:03:50,584 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 16:03:50,585 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 16:03:54,972 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 16:03:55,034 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 16:03:55,078 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 16:03:55,089 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@6cb2e87b
+2015-11-03 16:03:55,103 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 16:03:55,982 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 16:03:55,983 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 16:03:55,984 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 16:03:55,984 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@7db36833
+2015-11-03 16:03:55,985 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 16:03:57,273 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-03 16:03:57,274 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-03 16:03:57,276 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:34] ping
+2015-11-03 16:03:57,277 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@4a5c527d
+2015-11-03 16:03:57,279 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-03 16:04:05,748 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-03 16:04:05,748 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 16:27:39,611 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 16:27:40,234 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 16:27:40,236 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 16:27:54,613 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 16:27:55,225 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 16:27:55,227 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 16:28:33,878 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-03 16:28:34,532 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-03 16:28:34,534 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-03 16:28:34,650 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-03 16:28:34,650 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:29] PING Service start!
+2015-11-03 16:28:35,992 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:56] PING Service Stops!
+2015-11-03 16:28:35,992 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 20:50:44,925 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 20:50:45,551 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 20:50:45,553 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 20:50:45,669 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 20:50:45,669 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 20:50:45,779 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@25af4e0e
+2015-11-05 20:50:54,616 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 20:50:54,695 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 20:50:54,697 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:37] ping
+2015-11-05 20:50:54,725 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 20:51:01,586 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:75] PING Service Stops!
+2015-11-05 20:51:01,587 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 20:59:59,704 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 21:00:00,322 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 21:00:00,323 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 21:00:00,434 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 21:00:00,434 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 21:00:00,465 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@2648add1
+2015-11-05 21:00:05,003 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:00:05,076 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:00:05,089 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 21:01:12,284 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 21:01:12,285 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:65] PING Service Stops!
+2015-11-05 21:01:40,153 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 21:01:40,767 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 21:01:40,768 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 21:01:40,888 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 21:01:40,888 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 21:01:40,891 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:58] PING!
+2015-11-05 21:01:40,914 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 21:01:40,919 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@d21d6ea
+2015-11-05 21:02:00,295 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:02:00,380 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:02:00,390 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 21:02:09,832 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:02:09,832 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:02:15,311 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:66] PING Service Stops!
+2015-11-05 21:02:15,312 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 21:11:27,652 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 21:11:28,252 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 21:11:28,253 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 21:11:28,361 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 21:11:28,361 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 21:11:28,367 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:58] PING!
+2015-11-05 21:11:28,395 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 21:11:28,401 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@3f6246a7
+2015-11-05 21:11:37,302 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:11:37,362 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:11:37,375 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 21:11:39,047 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:11:39,048 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:11:44,807 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:66] PING Service Stops!
+2015-11-05 21:11:44,809 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 21:22:43,757 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 21:22:44,369 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 21:22:44,370 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 21:22:44,484 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 21:22:44,486 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 21:22:44,490 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:66] PING!
+2015-11-05 21:22:44,513 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 21:22:44,516 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@658596d0
+2015-11-05 21:22:49,900 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:22:49,949 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:22:49,966 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 21:22:51,649 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:22:51,650 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:23:08,613 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:74] PING Service Stops!
+2015-11-05 21:23:08,613 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 21:30:12,250 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 21:30:12,850 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 21:30:12,852 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 21:30:12,968 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 21:30:12,968 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 21:30:19,471 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:30:19,541 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:30:19,576 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:68] PING!
+2015-11-05 21:30:19,578 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 21:30:19,583 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@77a8c172
+2015-11-05 21:30:19,592 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 21:30:33,402 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:30:33,403 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:37:11,091 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 21:37:11,691 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 21:37:11,692 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 21:37:11,800 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 21:37:11,800 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 21:37:19,768 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:37:19,835 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:37:19,869 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:69] PING!
+2015-11-05 21:37:19,870 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 21:37:19,877 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@2f455007
+2015-11-05 21:37:19,877 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] ECO!
+2015-11-05 21:37:19,882 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 21:37:31,815 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:37:31,816 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:38:20,173 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:38:20,174 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:42:37,665 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 21:42:37,665 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:77] PING Service Stops!
+2015-11-05 21:43:03,117 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 21:43:03,736 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 21:43:03,737 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 21:43:03,854 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 21:43:03,854 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 21:43:06,787 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:43:06,835 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:43:06,868 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:70] PING!
+2015-11-05 21:43:06,872 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 21:43:06,881 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@c4c39b3
+2015-11-05 21:43:06,881 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] ECO!
+2015-11-05 21:43:06,885 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 21:43:08,368 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:43:08,369 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:43:13,639 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:78] PING Service Stops!
+2015-11-05 21:43:13,639 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 21:46:19,596 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 21:46:20,202 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 21:46:20,203 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 21:46:20,314 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 21:46:20,314 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 21:46:20,319 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-05 21:46:20,320 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:51] END!
+2015-11-05 21:46:24,993 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 21:46:25,056 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 21:46:25,098 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:64] PONG CALL
+2015-11-05 21:46:25,099 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:71] PING!
+2015-11-05 21:46:25,100 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 21:46:25,105 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@1fc7641d
+2015-11-05 21:46:25,106 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] ECO1!
+2015-11-05 21:46:25,106 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:45] END REPLY!
+2015-11-05 21:46:25,113 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 21:48:58,613 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:79] PING Service Stops!
+2015-11-05 21:48:58,614 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 22:01:00,002 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-05 22:01:00,594 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-05 22:01:00,596 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-05 22:01:00,715 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-05 22:01:00,718 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-05 22:01:07,315 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 22:01:07,372 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 22:01:07,409 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:37] ping
+2015-11-05 22:01:07,413 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 22:01:07,420 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@6c62b9c3
+2015-11-05 22:01:07,423 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 22:01:07,986 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 22:01:07,987 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 22:01:07,988 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:37] ping
+2015-11-05 22:01:07,988 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 22:01:07,989 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@297295b6
+2015-11-05 22:01:07,989 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 22:01:08,689 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 22:01:08,690 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 22:01:08,692 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:37] ping
+2015-11-05 22:01:08,692 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 22:01:08,692 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@7d874a62
+2015-11-05 22:01:08,693 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 22:01:09,251 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 22:01:09,252 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 22:01:09,253 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:37] ping
+2015-11-05 22:01:09,254 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 22:01:09,254 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@e7dcddf
+2015-11-05 22:01:09,255 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 22:01:09,537 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 22:01:09,538 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 22:01:09,539 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:37] ping
+2015-11-05 22:01:09,539 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 22:01:09,540 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@77a8c172
+2015-11-05 22:01:09,541 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 22:01:09,735 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-05 22:01:09,735 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-05 22:01:09,736 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:37] ping
+2015-11-05 22:01:09,737 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-05 22:01:09,737 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@4a4a3514
+2015-11-05 22:01:09,738 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-05 22:01:13,862 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-05 22:01:13,862 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:55] PING Service Stops!
+2015-11-06 11:03:28,600 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 11:03:30,081 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 11:03:30,083 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 11:03:30,289 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 11:03:30,289 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 11:03:30,308 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 11:03:30,315 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:52] END!
+2015-11-06 11:03:54,856 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:03:54,962 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 11:04:04,757 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 11:04:10,975 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:04:10,982 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:04:11,112 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:66] PONG CALL
+2015-11-06 11:04:11,112 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:73] PING!
+2015-11-06 11:04:11,113 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 11:04:11,135 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@254aae7c
+2015-11-06 11:04:11,136 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] ECO1!
+2015-11-06 11:04:11,136 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:45] END REPLY!
+2015-11-06 11:04:11,155 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 11:04:15,139 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:04:15,140 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:04:25,625 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-06 11:04:25,625 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:81] PING Service Stops!
+2015-11-06 11:07:17,193 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 11:07:17,838 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 11:07:17,840 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 11:07:17,969 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 11:07:17,969 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 11:07:17,979 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 11:07:34,815 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:07:34,878 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:07:39,439 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-06 11:10:47,210 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 11:10:47,874 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 11:10:47,876 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 11:10:47,985 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 11:10:47,986 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 11:10:47,990 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 11:10:47,992 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:49] END!
+2015-11-06 11:10:59,030 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:10:59,124 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:10:59,168 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:63] PONG CALL
+2015-11-06 11:10:59,173 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:70] PING!
+2015-11-06 11:10:59,181 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 11:10:59,188 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@4fd7969
+2015-11-06 11:10:59,190 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:42] ECO1!
+2015-11-06 11:10:59,190 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:44] END REPLY!
+2015-11-06 11:10:59,198 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 11:11:08,405 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:11:08,406 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:38:39,500 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 11:38:40,125 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 11:38:40,127 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 11:38:40,255 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 11:38:40,255 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 11:38:40,259 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 11:38:40,259 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:59] PONG CALL
+2015-11-06 11:38:40,259 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:66] PING!
+2015-11-06 11:38:40,281 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 11:38:40,282 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:45] END!
+2015-11-06 11:38:40,287 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@5f5956cf
+2015-11-06 11:38:51,729 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:38:51,786 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:38:51,801 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 11:38:53,705 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:38:53,706 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:40:15,561 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 11:40:16,220 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 11:40:16,222 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 11:40:16,341 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 11:40:16,344 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 11:40:16,350 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 11:40:16,351 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:59] PONG CALL
+2015-11-06 11:40:16,351 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:66] PING!
+2015-11-06 11:40:16,378 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 11:40:16,382 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@4ba66851
+2015-11-06 11:40:16,400 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:45] END!
+2015-11-06 11:40:23,376 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:40:23,445 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:40:23,459 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 11:40:24,220 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 11:40:24,221 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 11:50:16,878 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 11:50:17,544 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 11:50:17,546 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 11:50:17,679 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 11:50:17,679 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 11:50:17,683 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 11:50:26,698 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-06 12:04:50,429 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 12:04:51,128 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 12:04:51,129 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 12:04:51,251 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 12:04:51,251 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 12:04:51,257 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 12:04:57,777 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-06 12:05:41,639 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 12:05:42,294 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 12:05:42,296 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 12:05:42,405 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 12:05:42,406 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 12:05:42,409 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 12:05:49,118 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:05:49,191 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:05:49,229 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:38] lalala!
+2015-11-06 12:05:49,229 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:61] PONG CALL
+2015-11-06 12:05:49,230 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:68] PING!
+2015-11-06 12:05:49,231 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:05:49,240 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@6eedc95
+2015-11-06 12:05:49,241 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:42] ECO1!
+2015-11-06 12:05:49,241 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:44] END REPLY!
+2015-11-06 12:05:49,244 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:06:06,975 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:06:06,975 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:06:06,976 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:38] lalala!
+2015-11-06 12:06:34,175 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-06 12:06:34,179 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:76] PING Service Stops!
+2015-11-06 12:08:02,912 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 12:08:03,740 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 12:08:03,742 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 12:08:03,879 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 12:08:03,883 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 12:08:03,884 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 12:08:03,886 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:61] PONG CALL
+2015-11-06 12:08:03,886 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:68] PING!
+2015-11-06 12:08:03,919 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:08:03,925 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@2b245a6
+2015-11-06 12:08:03,926 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:42] ECO1!
+2015-11-06 12:08:27,162 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 12:08:27,786 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 12:08:27,788 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 12:08:27,909 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 12:08:27,909 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 12:08:27,913 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] ECO!
+2015-11-06 12:08:27,916 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:61] PONG CALL
+2015-11-06 12:08:27,916 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:68] PING!
+2015-11-06 12:08:27,947 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:08:27,952 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@e7f627e
+2015-11-06 12:08:27,953 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:42] ECO1!
+2015-11-06 12:08:39,400 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:08:39,447 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:08:39,455 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:38] lalala!
+2015-11-06 12:14:41,537 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 12:14:42,217 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 12:14:42,218 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 12:14:42,327 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 12:14:42,327 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PING Service start!
+2015-11-06 12:14:49,528 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:14:49,588 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:14:49,637 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:49,640 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] PONG CALL
+2015-11-06 12:14:49,641 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:49,642 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:14:49,652 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@62e163e2
+2015-11-06 12:14:49,655 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:14:52,590 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:14:52,591 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:14:52,592 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:52,592 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] PONG CALL
+2015-11-06 12:14:52,592 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:52,593 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:14:52,593 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@1228188c
+2015-11-06 12:14:52,594 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:14:53,669 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:14:53,670 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:14:53,671 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:53,671 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] PONG CALL
+2015-11-06 12:14:53,671 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:53,672 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:14:53,673 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@3049be3
+2015-11-06 12:14:53,673 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:14:54,544 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:14:54,545 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:14:54,546 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:54,547 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] PONG CALL
+2015-11-06 12:14:54,547 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:54,547 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:14:54,548 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@64d6e5da
+2015-11-06 12:14:54,549 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:14:55,007 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:14:55,008 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:14:55,009 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:55,010 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:43] PONG CALL
+2015-11-06 12:14:55,010 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:50] PING!
+2015-11-06 12:14:55,010 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:14:55,011 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@d4164d1
+2015-11-06 12:14:55,011 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:17:49,180 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:58] PING Service Stops!
+2015-11-06 12:17:49,181 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-06 12:29:24,231 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 12:29:24,872 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 12:29:24,874 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 12:29:24,990 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 12:29:33,916 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:29:34,000 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:30:09,741 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 12:30:10,383 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 12:30:10,385 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 12:30:10,503 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 12:30:23,777 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-06 12:31:33,785 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 12:31:34,419 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 12:31:34,421 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 12:31:34,536 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:29] PONG Service start!
+2015-11-06 12:31:34,536 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:30] PING Service start!
+2015-11-06 12:31:37,819 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:31:37,876 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:31:37,914 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING!
+2015-11-06 12:31:37,915 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PONG CALL
+2015-11-06 12:31:37,919 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:31:37,926 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@690b83c
+2015-11-06 12:31:37,929 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:31:38,569 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:31:38,570 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:31:38,570 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING!
+2015-11-06 12:31:38,571 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PONG CALL
+2015-11-06 12:31:38,571 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:31:38,571 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@3e261b4e
+2015-11-06 12:31:38,572 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:31:39,064 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:31:39,065 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:31:39,067 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING!
+2015-11-06 12:31:39,068 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PONG CALL
+2015-11-06 12:31:39,068 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:31:39,069 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@1ca06522
+2015-11-06 12:31:39,070 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:31:39,248 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:31:39,249 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:31:39,251 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING!
+2015-11-06 12:31:39,251 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PONG CALL
+2015-11-06 12:31:39,252 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:31:39,253 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@5a14b99
+2015-11-06 12:31:39,253 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:31:39,408 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:31:39,409 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:31:39,410 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING!
+2015-11-06 12:31:39,410 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PONG CALL
+2015-11-06 12:31:39,410 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:31:39,411 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@6735249
+2015-11-06 12:31:39,412 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:31:39,568 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:31:39,569 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:31:39,570 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING!
+2015-11-06 12:31:39,570 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PONG CALL
+2015-11-06 12:31:39,571 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:31:39,571 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@801c5a2
+2015-11-06 12:31:39,571 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:31:39,695 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:31:39,696 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:31:39,697 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING!
+2015-11-06 12:31:39,697 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PONG CALL
+2015-11-06 12:31:39,698 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:31:39,698 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@171728f5
+2015-11-06 12:31:39,699 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:31:39,857 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 12:31:39,858 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 12:31:39,859 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:47] PING!
+2015-11-06 12:31:39,859 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:40] PONG CALL
+2015-11-06 12:31:39,859 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:39] PONG!
+2015-11-06 12:31:39,859 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:43] [B@1865540d
+2015-11-06 12:31:39,860 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 12:31:44,112 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:51] PONG Service Stops!
+2015-11-06 12:31:44,112 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:55] PING Service Stops!
+2015-11-06 13:15:00,858 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 13:15:01,537 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 13:15:01,539 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 13:17:21,965 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-06 13:17:22,642 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-06 13:17:22,643 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-06 13:17:32,123 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 13:17:32,183 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 13:17:32,233 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:51] PING!
+2015-11-06 13:17:32,233 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:44] PONG CALL
+2015-11-06 13:17:32,238 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:42] PONG!
+2015-11-06 13:17:32,253 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 13:17:33,334 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 13:17:33,334 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 13:17:33,335 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:51] PING!
+2015-11-06 13:17:33,336 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:44] PONG CALL
+2015-11-06 13:17:33,337 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:42] PONG!
+2015-11-06 13:17:33,338 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 13:17:34,157 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 13:17:34,158 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 13:17:34,159 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:51] PING!
+2015-11-06 13:17:34,159 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:44] PONG CALL
+2015-11-06 13:17:34,159 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:42] PONG!
+2015-11-06 13:17:34,160 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 13:17:34,326 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 13:17:34,327 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 13:17:34,328 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:51] PING!
+2015-11-06 13:17:34,328 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:44] PONG CALL
+2015-11-06 13:17:34,329 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:42] PONG!
+2015-11-06 13:17:34,330 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-06 13:17:34,476 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-06 13:17:34,476 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-06 13:17:34,477 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:51] PING!
+2015-11-06 13:17:34,477 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:44] PONG CALL
+2015-11-06 13:17:34,478 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:42] PONG!
+2015-11-06 13:17:34,479 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 17:51:47,989 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-07 17:51:53,527 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 17:51:53,528 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 17:56:33,879 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 17:56:33,976 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 17:56:34,087 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:39] PING!
+2015-11-07 17:56:34,087 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 17:56:34,122 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:24] PONG!
+2015-11-07 17:56:34,179 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 17:56:38,123 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 17:56:38,123 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 17:56:38,124 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:39] PING!
+2015-11-07 17:56:38,124 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 17:56:38,125 INFO [vert.x-eventloop-thread-4] o.p.s.PongService [PongService.java:24] PONG!
+2015-11-07 17:56:38,126 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 18:08:09,582 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:31] Main Verticle start!
+2015-11-07 18:08:10,177 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 18:08:10,178 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 18:46:55,789 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:33] Main Verticle start!
+2015-11-07 18:47:21,582 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:33] Main Verticle start!
+2015-11-07 18:47:22,509 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 18:47:22,511 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 18:48:52,330 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:33] Main Verticle start!
+2015-11-07 18:48:52,921 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 18:48:52,922 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 18:52:54,762 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:33] Main Verticle start!
+2015-11-07 18:52:55,359 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 18:52:55,361 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 18:58:45,621 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:33] Main Verticle start!
+2015-11-07 18:58:46,209 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 18:58:46,210 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 18:59:57,724 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:33] Main Verticle start!
+2015-11-07 18:59:58,322 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 18:59:58,323 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 19:00:36,149 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:33] Main Verticle start!
+2015-11-07 19:00:36,737 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 19:00:36,739 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 19:02:01,475 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:33] Main Verticle start!
+2015-11-07 19:02:02,065 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 19:02:02,067 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 19:35:06,423 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-07 19:35:07,027 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 19:35:07,028 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 19:35:11,873 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:35:11,929 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:35:11,972 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:35:11,980 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:35:12,621 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:35:12,622 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:35:12,623 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:35:12,624 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:35:13,085 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:35:13,086 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:35:13,087 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:35:13,088 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:35:13,250 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:35:13,251 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:35:13,252 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:35:13,253 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:35:13,417 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:35:13,418 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:35:13,419 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:35:13,420 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:35:13,534 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:35:13,535 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:35:13,536 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:35:13,539 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:37:21,242 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-07 19:37:21,836 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 19:37:21,838 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 19:37:21,953 ERROR [vert.x-eventloop-thread-4] o.p.e.EventBusBridge [EventBusBridge.java:23] EventBusBridge must be initialized by setEventBus method. For example in your main verticle write down something like,  EventBusBridge.INSTANCE.setEventBus(vertx.eventBus());
+2015-11-07 19:37:21,955 ERROR [vert.x-eventloop-thread-3] o.p.e.EventBusBridge [EventBusBridge.java:23] EventBusBridge must be initialized by setEventBus method. For example in your main verticle write down something like,  EventBusBridge.INSTANCE.setEventBus(vertx.eventBus());
+2015-11-07 19:37:57,738 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-07 19:37:58,330 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-07 19:37:58,331 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-07 19:38:03,970 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:38:04,034 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:38:04,067 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:38:04,080 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:38:04,702 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:38:04,703 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:38:04,704 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:38:04,705 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:38:04,913 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:38:04,914 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:38:04,915 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:38:04,916 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:38:05,069 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:38:05,070 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:38:05,070 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:38:05,074 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:38:05,210 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:38:05,211 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:38:05,211 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:38:05,213 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:38:05,358 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:38:05,359 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:38:05,360 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:38:05,362 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-07 19:38:05,478 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-07 19:38:05,479 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:47] New request
+2015-11-07 19:38:05,479 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-07 19:38:05,480 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-08 12:35:17,822 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-08 12:35:22,294 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-08 12:35:22,296 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-08 12:35:48,247 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-08 12:35:48,322 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:50] New request
+2015-11-08 12:35:48,429 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-08 12:35:48,511 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-08 12:35:51,331 INFO [vert.x-eventloop-thread-2] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-08 12:35:51,333 INFO [vert.x-eventloop-thread-2] o.p.r.PingPongResource [PingPongResource.java:50] New request
+2015-11-08 12:35:51,334 INFO [vert.x-eventloop-thread-3] o.p.s.PingService [PingService.java:32] PONG CALL
+2015-11-08 12:35:51,336 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-08 12:38:18,342 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-08 12:38:18,945 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-08 12:38:18,946 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-08 12:42:37,480 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-08 12:42:38,080 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-08 12:42:38,127 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-08 12:45:00,253 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-08 12:45:00,903 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-08 12:45:00,905 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-08 12:45:30,222 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-08 12:45:30,802 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-08 12:45:30,804 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.

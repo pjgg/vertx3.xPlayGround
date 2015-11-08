@@ -1,0 +1,9 @@
+package domain;
+
+option java_package = "org.pablo.codec";
+option java_outer_classname = "PingPongPayload";
+
+message PingPongMessage{
+  required string ping = 1;
+  required string pong = 2;
+}
