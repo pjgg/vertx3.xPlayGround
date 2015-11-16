@@ -22,6 +22,7 @@
 	<modules>
 		<module>vertxHelloWorld</module>
 		<module>vertxJerseyExample</module>
+		<module>vertxJerseyMongoExample</module>
 		<module>vertxJerseyPingPongVerticlesExample</module>
 	</modules>
 
@@ -31,7 +32,14 @@
 			<artifactId>vertx-core</artifactId>
 			<version>${vertx.version}</version>
 		</dependency>
-
+		
+		<!-- vertx cluster -->
+        <dependency>
+			<groupId>io.vertx</groupId>
+			<artifactId>vertx-hazelcast</artifactId>
+			<version>3.1.0</version>
+		</dependency>
+		
 		<!-- Test Lib -->
 		<dependency>
 			<groupId>junit</groupId>

@@ -49,3 +49,158 @@
 2015-11-05 20:49:42,580 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
 2015-11-05 20:49:42,614 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
 2015-11-05 20:50:31,214 INFO [vert.x-eventloop-thread-2] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:03:32,866 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:32,866 DEBUG [vert.x-eventloop-thread-7] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:32,866 DEBUG [vert.x-eventloop-thread-1] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:32,866 DEBUG [vert.x-eventloop-thread-3] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:32,866 DEBUG [vert.x-eventloop-thread-4] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:32,866 DEBUG [vert.x-eventloop-thread-0] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:32,866 DEBUG [vert.x-eventloop-thread-6] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:32,866 DEBUG [vert.x-eventloop-thread-5] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:32,923 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:32,923 DEBUG [vert.x-eventloop-thread-4] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:32,923 DEBUG [vert.x-eventloop-thread-3] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:32,923 DEBUG [vert.x-eventloop-thread-1] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:32,923 DEBUG [vert.x-eventloop-thread-0] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:32,923 DEBUG [vert.x-eventloop-thread-7] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:32,923 DEBUG [vert.x-eventloop-thread-6] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:32,924 DEBUG [vert.x-eventloop-thread-5] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:48,622 DEBUG [vert.x-eventloop-thread-1] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:48,623 DEBUG [vert.x-eventloop-thread-6] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:48,622 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:48,623 DEBUG [vert.x-eventloop-thread-0] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:48,623 DEBUG [vert.x-eventloop-thread-3] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:48,623 DEBUG [vert.x-eventloop-thread-7] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:48,623 DEBUG [vert.x-eventloop-thread-5] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:48,623 DEBUG [vert.x-eventloop-thread-4] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-13 19:03:48,632 DEBUG [vert.x-eventloop-thread-3] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:48,632 DEBUG [vert.x-eventloop-thread-4] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:48,632 DEBUG [vert.x-eventloop-thread-0] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:48,632 DEBUG [vert.x-eventloop-thread-1] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:48,632 DEBUG [vert.x-eventloop-thread-6] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:48,632 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:48,632 DEBUG [vert.x-eventloop-thread-5] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:03:48,632 DEBUG [vert.x-eventloop-thread-7] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-13 19:06:56,546 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:06:56,548 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:06:56,703 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:17,345 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:17,345 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:17,347 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:21,092 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:21,093 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:21,094 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:21,244 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:21,244 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:21,245 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:21,388 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:21,389 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:21,390 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:21,529 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:21,529 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:21,530 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:21,675 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:21,676 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:21,677 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:21,817 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:21,818 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:21,819 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:21,960 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:21,960 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:21,961 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:22,114 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:22,114 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:22,115 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:22,264 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:22,265 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:22,266 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:22,405 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:22,405 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:22,406 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:22,544 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:22,545 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:22,546 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:22,713 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:22,713 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:22,714 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:22,856 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:22,857 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:22,858 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:23,019 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:23,019 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:23,021 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:23,190 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:23,190 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:23,191 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:07:23,329 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:07:23,330 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:07:23,331 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:35,176 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:35,177 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:35,178 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:35,345 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:35,346 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:35,347 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:35,484 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:35,484 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:35,485 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:35,638 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:35,639 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:35,640 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:35,784 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:35,785 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:35,786 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:35,924 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:35,924 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:35,926 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:36,068 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:36,069 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:36,070 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:36,229 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:36,230 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:36,231 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:36,378 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:36,378 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:36,379 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:36,540 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:36,546 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:36,547 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:36,692 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:36,693 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:36,694 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:36,860 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:36,861 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:36,862 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:37,013 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:37,014 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:37,015 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:37,169 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:37,170 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:37,173 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:37,321 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:37,321 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:37,322 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:08:37,480 INFO [vert.x-eventloop-thread-1] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:08:37,480 INFO [vert.x-eventloop-thread-1] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:08:37,481 INFO [vert.x-eventloop-thread-1] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:13:41,578 INFO [vert.x-eventloop-thread-4] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:13:41,579 INFO [vert.x-eventloop-thread-4] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:13:41,588 INFO [vert.x-eventloop-thread-4] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:13:41,693 INFO [vert.x-eventloop-thread-4] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:13:41,694 INFO [vert.x-eventloop-thread-4] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:13:41,695 INFO [vert.x-eventloop-thread-4] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:13:41,852 INFO [vert.x-eventloop-thread-4] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:13:41,852 INFO [vert.x-eventloop-thread-4] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:13:41,853 INFO [vert.x-eventloop-thread-4] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:13:41,996 INFO [vert.x-eventloop-thread-4] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:13:41,996 INFO [vert.x-eventloop-thread-4] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:13:41,997 INFO [vert.x-eventloop-thread-4] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:13:42,139 INFO [vert.x-eventloop-thread-4] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:13:42,140 INFO [vert.x-eventloop-thread-4] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:13:42,140 INFO [vert.x-eventloop-thread-4] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:13:42,294 INFO [vert.x-eventloop-thread-4] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:13:42,294 INFO [vert.x-eventloop-thread-4] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:13:42,295 INFO [vert.x-eventloop-thread-4] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
+2015-11-13 19:13:42,429 INFO [vert.x-eventloop-thread-4] o.p.r.MyResourceLayer [MyResourceLayer.java:41] Eco!
+2015-11-13 19:13:42,429 INFO [vert.x-eventloop-thread-4] o.p.f.CustomRequestFilter [CustomRequestFilter.java:18] Log 1
+2015-11-13 19:13:42,430 INFO [vert.x-eventloop-thread-4] o.p.f.CustomResponseFilter [CustomResponseFilter.java:26] Log 2
