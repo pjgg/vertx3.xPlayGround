@@ -25,5 +25,5 @@ vertx ~/vertxPlayGround/vertxHelloWorld/src/main/resources/groovyVerticle/receiv
 vertx ~/vertxPlayGround/vertxHelloWorld/src/main/resources/javascriptVerticle/receiver.js -cluster
  ```
 
-Those verticles are consumer. Will consume the messages sent by Sender.java. And Yes!, they are written in groovy and javascript!, why not!. You can try to write your own verticle in Scala or python feel free. There are a lot of language supported by Vertx.
+Those verticles are consumer. Will consume the messages sent by Sender.java. And Yes!, they are written in groovy and javascript!, why not!. You can try to write your own verticle in Scala or python feel free. There are a lot of language supported by Vertx and all of them can work together. 
 
