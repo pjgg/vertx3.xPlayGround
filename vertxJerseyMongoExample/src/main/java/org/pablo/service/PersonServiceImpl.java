@@ -3,31 +3,33 @@ package org.pablo.service;
 import java.lang.invoke.MethodHandles;
 
 import javax.inject.Inject;
+import javax.inject.Named;
 
 import org.pablo.domain.Person;
-import org.pablo.repository.PersonRepositoryImpl;
+import org.pablo.repository.PersonRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 
 public class PersonServiceImpl implements PersonService{
 
 	private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 
 	@Inject
-	private PersonRepositoryImpl personRepositoryImpl;
+	private PersonRepository personRepository;
 	
 	@Override
 	public Person singUp(Person person) {
 		LOG.info("Service");
-		return personRepositoryImpl.savePerson(person);
+		return personRepository.savePerson(person);
 	}
 
-	public PersonRepositoryImpl getPersonRepositoryImpl() {
-		return personRepositoryImpl;
+	public PersonRepository getPersonRepository() {
+		return personRepository;
 	}
 
-	public void setPersonRepositoryImpl(PersonRepositoryImpl personRepositoryImpl) {
-		this.personRepositoryImpl = personRepositoryImpl;
+	public void setPersonRepository(PersonRepository personRepository) {
+		this.personRepository = personRepository;
 	}
 
 }

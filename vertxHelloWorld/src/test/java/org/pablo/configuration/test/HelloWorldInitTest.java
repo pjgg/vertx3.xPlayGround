@@ -9,7 +9,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.pablo.configuration.HelloWorldInit;
+import org.pablo.configuration.Sender;
 
 @RunWith(VertxUnitRunner.class)
 public class HelloWorldInitTest {
@@ -19,7 +19,7 @@ public class HelloWorldInitTest {
 	@Before
 	public void setUp(TestContext context) {
 		vertx = Vertx.vertx();
-		vertx.deployVerticle(HelloWorldInit.class.getName(), context.asyncAssertSuccess());
+		vertx.deployVerticle(Sender.class.getName(), context.asyncAssertSuccess());
 	}
 
 	@After

@@ -1,6 +1,5 @@
 package org.pablo.repository;
 
-import io.vertx.core.AsyncResult;
 import io.vertx.core.json.JsonObject;
 import io.vertx.ext.mongo.MongoClient;
 
@@ -14,6 +13,7 @@ import org.slf4j.LoggerFactory;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
+
 
 public class PersonRepositoryImpl implements PersonRepository {
 

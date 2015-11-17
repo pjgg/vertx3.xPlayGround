@@ -10,7 +10,7 @@
 	</parent>
 	
 	<properties>
-		<main.class>org.pablo.configuration.HelloWorldInit</main.class>
+		<main.class>org.pablo.configuration.Sender</main.class>
 	</properties>
 
 	<artifactId>helloWorld-API</artifactId>

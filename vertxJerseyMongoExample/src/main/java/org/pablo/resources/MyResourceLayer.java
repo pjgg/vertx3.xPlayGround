@@ -19,7 +19,7 @@ import javax.ws.rs.core.MediaType;
 import org.pablo.assemblers.PersonAssembler;
 import org.pablo.domain.Person;
 import org.pablo.dto.PersonDto;
-import org.pablo.service.PersonServiceImpl;
+import org.pablo.service.PersonService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -29,7 +29,7 @@ public class MyResourceLayer {
 	private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 	
 	@Inject
-	private PersonServiceImpl personServiceImpl;
+	private PersonService personService;
 	
 	@Inject
 	private PersonAssembler personAssembler;
@@ -39,9 +39,9 @@ public class MyResourceLayer {
 	@Consumes(MediaType.APPLICATION_JSON)
 	public void createPerson(@Suspended AsyncResponse asyncResponse,  @Context Vertx vertx, @Valid PersonDto person) throws IOException {
 		LOG.info("Resource");
-		Person p = personServiceImpl.singUp(personAssembler.apply(person));
+		Person p = personService.singUp(personAssembler.apply(person));
 		 asyncResponse.resume(personAssembler.applyReverseType(p));		 
 	}
-
+	
 }
 

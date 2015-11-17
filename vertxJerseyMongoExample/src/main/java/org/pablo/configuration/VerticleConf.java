@@ -1,16 +1,22 @@
 package org.pablo.configuration;
 
-import com.englishtown.vertx.jersey.promises.WhenJerseyServer;
-
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Future;
 import io.vertx.core.json.JsonObject;
 
+import java.lang.invoke.MethodHandles;
+
 import javax.inject.Inject;
 
 import org.pablo.utils.VertxBridge;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
-public class VerticleConf extends AbstractVerticle {
+import com.englishtown.vertx.jersey.promises.WhenJerseyServer;
+
+public class VerticleConf extends AbstractVerticle{
+	
+	private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());
 	
 	private final WhenJerseyServer jerseyServer;
 
