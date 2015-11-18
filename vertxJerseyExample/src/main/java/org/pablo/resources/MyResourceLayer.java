@@ -36,10 +36,6 @@ public class MyResourceLayer {
 	
 	@Inject
 	private CustomSimpleDateFormat simpleDateFormat;
-	
-	public MyResourceLayer(){
-		LOG.info("Eco!");
-	}
 
 	@GET
     @Produces(MediaType.TEXT_PLAIN)

@@ -58,3 +58,5 @@ syntax: regexp
 ^model/velocity\.log\.1$
 syntax: regexp
 ^services/bootstrap/dump\.rdb$
+
+vertxJerseyExample/target/.*
