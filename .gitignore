@@ -6,6 +6,7 @@ yntax: glob
 .classpath
 .project
 .DS_Store
+*/target/*
 
 syntax: glob
 *.log
