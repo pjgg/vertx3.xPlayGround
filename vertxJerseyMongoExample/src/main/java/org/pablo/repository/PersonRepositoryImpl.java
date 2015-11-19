@@ -24,6 +24,7 @@ public class PersonRepositoryImpl implements PersonRepository {
 	@Override
 	public Person savePerson(Person person) {
 		CompletableFuture<Person> savePromise = new CompletableFuture<Person>();
+		
 		mongoClient.save("products", new JsonObject(((Gson)new GsonBuilder().create()).toJson(person)), personId -> {
 			person.setId(personId.result());
 			savePromise.complete(person);

@@ -211,6 +211,13 @@
             <scope>test</scope>
             <version>1.10.8</version>
         </dependency>
+        
+        <!-- rxJava -->
+        <dependency>
+           <groupId>io.vertx</groupId>
+           <artifactId>vertx-rx-java</artifactId>
+           <version>${vertx.version}</version>
+        </dependency>
  
 	</dependencies>
 
