@@ -20,19 +20,12 @@
 		<vertx.guice.version>2.1.0</vertx.guice.version>
 	</properties>
 
-	<artifactId>jerseyMongoExample</artifactId>
+	<artifactId>jerseyRxJavaExample</artifactId>
 	<packaging>jar</packaging>
-	<name>jerseyMongoExample</name>
-	<description>jersey mongo example</description>
+	<name>jerseyRxJavaExample</name>
+	<description>jersey RxJava example</description>
 
 	<dependencies>
-	    <!-- mongoDb -->
-	    <dependency>
-		  <groupId>io.vertx</groupId>
-		  <artifactId>vertx-mongo-client</artifactId>
-		  <version>${vertx.version}</version>
-		</dependency>
-		
 		<!-- jersey -->
 		<dependency>
 			<groupId>com.englishtown.vertx</groupId>
@@ -58,12 +51,6 @@
 			<groupId>org.glassfish.jersey.core</groupId>
 			<artifactId>jersey-server</artifactId>
 			<version>${jersey.version}</version>
-		</dependency>
-		
-		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
-			<version>3.1.0</version>
 		</dependency>
 
 		<dependency>
@@ -190,20 +177,14 @@
 			<artifactId>logback-classic</artifactId>
 			<version>1.1.2</version>
 		</dependency>
-		<!-- BeansUtils -->
-		 <dependency>
-			<groupId>commons-beanutils</groupId>
-			<artifactId>commons-beanutils</artifactId>
-			<version>1.9.2</version>
-		 </dependency>
-		 
-		 <!-- Gson -->
-		 <dependency>
-		    <groupId>com.google.code.gson</groupId>
-		    <artifactId>gson</artifactId>
-		    <version>2.2.4</version>
-		</dependency>
-         
+		
+		 <!-- rxJava -->
+        <dependency>
+           <groupId>io.vertx</groupId>
+           <artifactId>vertx-rx-java</artifactId>
+           <version>${vertx.version}</version>
+        </dependency>
+		
 		 <!--Test dependencies-->
         <dependency>
             <groupId>org.mockito</groupId>
@@ -211,8 +192,6 @@
             <scope>test</scope>
             <version>1.10.8</version>
         </dependency>
-        
-
  
 	</dependencies>
 

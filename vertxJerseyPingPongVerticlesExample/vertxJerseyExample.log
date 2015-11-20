@@ -1198,3 +1198,9 @@
 2015-11-08 12:45:30,222 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
 2015-11-08 12:45:30,802 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
 2015-11-08 12:45:30,804 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-20 09:16:41,427 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-20 09:16:42,222 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-20 09:16:42,223 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
+2015-11-20 09:16:55,608 INFO [vert.x-eventloop-thread-2] o.p.c.VerticleConf [VerticleConf.java:32] Main Verticle start!
+2015-11-20 09:16:56,231 DEBUG [vert.x-eventloop-thread-2] o.p.e.AbstractExceptionMapper [AbstractExceptionMapper.java:47] javax.validation.ConstraintViolationException;1,BAD_REQUEST, Invalid input body.;BAD_REQUEST; Invalid input body.
+2015-11-20 09:16:56,233 DEBUG [vert.x-eventloop-thread-2] o.p.e.CustomExceptionMapper [CustomExceptionMapper.java:20] ExceptionMapper ... Initialized.
