@@ -11,7 +11,6 @@ yntax: glob
 syntax: glob
 *.log
 */target/*
-test-ouput\
 *.bak
 **.prefs
 
@@ -20,9 +19,6 @@ syntax: regexp
 ^target$
 /target$
 /target/
-^test-ouput$
-/test-ouput$
-/test-ouput/
 ^cruise-output$
 /cruise-output$
 /cruise-output/
@@ -33,7 +29,6 @@ target      # maven output
 \.classpath # eclipse
 \.project   # eclipse
 \.settings  # eclipse
-test-output # eclipse junit/testng plugin output
 bin
 bin/target/
 build/classes
