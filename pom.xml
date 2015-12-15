@@ -25,6 +25,7 @@
 		<module>vertxJerseyRxJavaExample</module>
 		<module>vertxJerseyMongoExample</module>
 		<module>vertxJerseyPingPongVerticlesExample</module>
+		<module>vertxUdpServerExample</module>
 	</modules>
 
 	<dependencies>
