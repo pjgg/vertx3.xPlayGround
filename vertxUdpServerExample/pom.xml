@@ -15,7 +15,7 @@
 
 	<artifactId>UdpServerExample</artifactId>
 	<packaging>jar</packaging>
-	<name>udoServerExample</name>
+	<name>udpServerExample</name>
 	<description>UDP server</description>
 
 	<build>

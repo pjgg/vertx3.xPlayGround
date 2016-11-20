@@ -1,10 +1,5 @@
 package org.pablo.configuration;
 
-import io.vertx.core.AbstractVerticle;
-import io.vertx.core.DeploymentOptions;
-import io.vertx.core.Future;
-import io.vertx.core.json.JsonObject;
-
 import java.lang.invoke.MethodHandles;
 
 import javax.inject.Inject;
@@ -14,6 +9,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.englishtown.vertx.jersey.promises.WhenJerseyServer;
+
+import io.vertx.core.AbstractVerticle;
+import io.vertx.core.DeploymentOptions;
+import io.vertx.core.Future;
 
 public class VerticleConf extends AbstractVerticle {
 	
@@ -35,7 +34,7 @@ public class VerticleConf extends AbstractVerticle {
 		
 		//Resource layer
 		
-        jerseyServer.createServer(getJerseyConfig())
+        jerseyServer.createServer()
                 .then(server -> {
                     startedResult.complete();
                     return null;
@@ -57,7 +56,7 @@ public class VerticleConf extends AbstractVerticle {
   	}	
 	
 
-	private JsonObject getJerseyConfig(){
-		return vertx.getOrCreateContext().config().getJsonObject("server");
-	}
+//	private JsonObject getJerseyConfig(){
+//		return vertx.getOrCreateContext().config().getJsonObject("server");
+//	}
 }

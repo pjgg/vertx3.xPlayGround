@@ -1,0 +1,18 @@
+{
+   "hk2_binder": [
+        "com.englishtown.vertx.hk2.WhenHK2JerseyBinder",
+        "com.englishtown.vertx.promises.hk2.HK2WhenBinder",
+        "org.pablo.binders.FiltersBinder",
+        "org.pablo.binders.CodecBinder",
+        "org.pablo.binders.ServicesBinder"
+    ],
+
+    "jersey": {
+        "host": "localhost",
+        "port": 3849,
+        "timeout": 60000,
+        "base_path": "/",
+        "resources": ["org.pablo.resources"],
+        "features": ["org.glassfish.jersey.jackson.JacksonFeature","org.pablo.exceptionMapper.CustomExceptionMapper"]
+    }
+}

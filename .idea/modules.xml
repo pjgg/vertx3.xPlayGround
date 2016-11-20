@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vertxUdpServerExample/UdpServerExample.iml" filepath="$PROJECT_DIR$/vertxUdpServerExample/UdpServerExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxRedisClusterExample/VertxRedisClusterExample.iml" filepath="$PROJECT_DIR$/vertxRedisClusterExample/VertxRedisClusterExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxHelloWorld/helloWorld-API.iml" filepath="$PROJECT_DIR$/vertxHelloWorld/helloWorld-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxJerseyExample/jerseyExample.iml" filepath="$PROJECT_DIR$/vertxJerseyExample/jerseyExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxJerseyMongoExample/jerseyMongoExample.iml" filepath="$PROJECT_DIR$/vertxJerseyMongoExample/jerseyMongoExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxJerseyPingPongVerticlesExample/jerseyPingPongExample.iml" filepath="$PROJECT_DIR$/vertxJerseyPingPongVerticlesExample/jerseyPingPongExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertxJerseyRxJavaExample/jerseyRxJavaExample.iml" filepath="$PROJECT_DIR$/vertxJerseyRxJavaExample/jerseyRxJavaExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertx.iml" filepath="$PROJECT_DIR$/vertx.iml" />
+    </modules>
+  </component>
+</project>

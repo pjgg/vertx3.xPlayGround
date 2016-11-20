@@ -31,7 +31,7 @@ public class PingPongResource {
 	
 	@Inject
 	private PingPongSerializer pingPongSerializer;
-
+	
 	@GET
 	@Path("/pong")
 	@Produces(MediaType.APPLICATION_JSON)

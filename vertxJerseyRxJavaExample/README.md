@@ -19,7 +19,7 @@ You will find an example of all of this point in this project. In the resource f
 
 Other way is generate a fatJar, to do it just ```run mvn clean install``` and then go to tarjet folder and run 
 ```
-java -jar -Dlogback.configurationFile=src/main/resources/logback.xml -Dorg.vertx.logger-delegate-factory-class-name=org.vertx.java.core.logging.impl.SLF4JLogDelegateFactory jerseyExample-1.0.0-SNAPSHOT-fat.jar -conf ../src/main/resources/verticle.cfg
+java -jar -Dlogback.configurationFile=src/main/resources/logback.xml -Dorg.vertx.logger-delegate-factory-class-name=org.vertx.java.core.logging.impl.SLF4JLogDelegateFactory jerseyExample-1.0.0-SNAPSHOT-fat.jar -conf ../src/main/resources/config.json
 ```
 
 And as a result of this command you should see something like 'INFO: Http server listening for http://localhost:3849' 

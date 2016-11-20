@@ -18,7 +18,7 @@ In this project I use java8 completable futures in stead of 'third parties promi
 
  ```
  mvn clean install
- java -jar -Dlogback.configurationFile=src/main/resources/logback.xml -Dorg.vertx.logger-delegate-factory-class-name=org.vertx.java.core.logging.impl.SLF4JLogDelegateFactory jerseyPingPongExample-1.0.0-SNAPSHOT-fat.jar -conf ../src/main/resources/verticle.cfg 
+ java -jar -Dlogback.configurationFile=src/main/resources/logback.xml -Dorg.vertx.logger-delegate-factory-class-name=org.vertx.java.core.logging.impl.SLF4JLogDelegateFactory jerseyPingPongExample-1.0.0-SNAPSHOT-fat.jar -conf ../src/main/resources/config.json 
   ```
   
   Then make some queries ...

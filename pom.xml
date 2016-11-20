@@ -10,16 +10,17 @@
 	<description>Vertx main pom</description>
 
 	<properties>
-		<vertx.version>3.0.0</vertx.version>
+		<vertx.version>3.2.0</vertx.version>
 		<java.version>1.8</java.version>
 		<main.class>org.pablo.configuration.HelloWorldInit</main.class>
-		<jersey.vertx.version>4.0.0</jersey.vertx.version>
+		<jersey.vertx.version>4.5.0</jersey.vertx.version>
 		<jackson.version>2.6.1</jackson.version>
 		<when.java.version>3.1.0</when.java.version>
 		<vertx.when.version>4.1.0</vertx.when.version>
 	</properties>
 	
 	<modules>
+		<module>vertxRedisClusterExample</module>
 		<module>vertxHelloWorld</module>
 		<module>vertxJerseyExample</module>
 		<module>vertxJerseyRxJavaExample</module>
@@ -39,7 +40,7 @@
         <dependency>
 			<groupId>io.vertx</groupId>
 			<artifactId>vertx-hazelcast</artifactId>
-			<version>3.1.0</version>
+			<version>${vertx.version}</version>
 		</dependency>
 		
 		<!-- Test Lib -->

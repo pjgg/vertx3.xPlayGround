@@ -1,0 +1,19 @@
+
+{
+  "jersey": {
+        "host": "127.0.0.1",
+        "port": 3849,
+        "timeout": 60000,
+        "base_path": "/",
+        "resources": ["org.pablo.resources"],
+        "features": ["org.glassfish.jersey.jackson.JacksonFeature", "org.glassfish.jersey.media.sse.SseFeature"],
+        "resource_config": {"jersey.config.disableAutoDiscovery":false, "jersey.config.beanValidation.disable.server":false, "jersey.config.beanValidation.enableOutputValidationErrorEntity.server":true, "jersey.config.beanValidation.disable.validateOnExecutableCheck.server": true}
+    },
+    "redis": {
+     "host":"127.0.0.1",
+     "port": 6379
+   }
+}
+
+
+

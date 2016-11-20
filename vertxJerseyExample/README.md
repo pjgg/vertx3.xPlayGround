@@ -13,7 +13,7 @@ You will find an example of all of this point in this project. In the resource f
 - Open 'Run Configuration windows'
 - Goto 'java application' and create a new launch configuration
 - In 'main' tab projectName select your project and in main class write down 'io.vertx.core.Starter'
-- In arguments write down 'run java-hk2:org.pablo.configuration.VerticleConf -conf src/main/resources/verticle.cfg'
+- In arguments write down 'run java-hk2:org.pablo.configuration.VerticleConf -conf src/main/resources/config.json'
 - In arguments  write down '-Dlogback.configurationFile=src/main/resources/logback.xml -Dorg.vertx.logger-delegate-factory-class-name=org.vertx.java.core.logging.impl.SLF4JLogDelegateFactory'
 - then click apply and run!. 
 

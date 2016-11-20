@@ -1,11 +1,11 @@
 package org.pablo.configuration;
 
+import javax.inject.Inject;
+
 import com.englishtown.vertx.jersey.promises.WhenJerseyServer;
+
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Future;
-import io.vertx.core.json.JsonObject;
-
-import javax.inject.Inject;
 
 public class VerticleConf extends AbstractVerticle {
 	
@@ -19,7 +19,7 @@ public class VerticleConf extends AbstractVerticle {
 	@Override
 	public void start(Future<Void> startedResult) {
 		
-        jerseyServer.createServer(getJerseyConfig())
+        jerseyServer.createServer()
                 .then(server -> {
                     startedResult.complete();
                     return null;
@@ -31,7 +31,4 @@ public class VerticleConf extends AbstractVerticle {
 		
 	}
 	
-	private JsonObject getJerseyConfig(){
-		return vertx.getOrCreateContext().config().getJsonObject("server");
-	}
 }
